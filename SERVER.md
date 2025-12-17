@@ -280,12 +280,3 @@ http://localhost:5000
 
 ---
 
-## 📌 Final Note
-
-This backend is designed to be:
-- Scalable
-- Safe under concurrent load
-- Easy to reason about
-- Interview-ready
-
-All business-critical constraints are enforced at the **database level**, not just in application logic.
